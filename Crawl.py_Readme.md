@@ -1,6 +1,6 @@
 ### Crawl.py Readme 
 
-####使用套件：Requests、pandas、其餘皆為python內建
+#### 使用套件：Requests、pandas、其餘皆為python內建
 用Request的原因就是因為他很普遍，好操作，對於這次作業很適合
 用Pandas的原因則是因為他最好拿來處理並分析資料
 
